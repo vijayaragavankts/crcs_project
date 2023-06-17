@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "kumar",
+      "address": "siva sakthi colony",
+      "state": "kerala",
+      "district": "tiruppur",
+      "date": "13/11/2020",
+      "operation": "tamilnadu",
+      "sector": "credit"
+    },
+    {
+      "id": 4,
+      "name": "Ajay",
+      "address": "siva sakthi colony",
+      "state": "tamilnadu",
+      "district": "tiruppur",
+      "date": "13/11/2020",
+      "operation": "tamilnadu",
+      "sector": "credit"
+    },
+    {
+      "id": 1,
+      "name": "Vijayaragavan",
+      "address": "axjscvnsv",
+      "state": "cdjvndv",
+      "district": "Demo District 1",
+      "date": "2023-06-25",
+      "operation": "d ve",
+      "sector": "bcer jen coerk"
+    },
+    {
+      "name": "K.T.S.Vijayaragavan",
+      "address": "rdhtfygb",
+      "state": "cdjvndv",
+      "district": "Tiruppur ",
+      "date": "2023-06-09",
+      "operation": "hehe gfhghjgbj h ",
+      "sector": "df df",
+      "id": 8
+    }
+  ]
+}
